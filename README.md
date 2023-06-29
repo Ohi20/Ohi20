@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashraf ohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf ohi" height="30" width="40" /></a>
-<a href="https://fb.com/ashraf ohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf ohi" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/ashraf ohi](https://www.linkedin.com/in/ashrafohi/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashraf ohi" height="30" width="40" /></a>
+<a href="[https://fb.com/ashraf ohi](https://www.facebook.com/ashraf.ohi.1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashraf ohi" height="30" width="40" /></a>
 <a href="https://instagram.com/_optimus_11th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_optimus_11th" height="30" width="40" /></a>
 </p>
 
